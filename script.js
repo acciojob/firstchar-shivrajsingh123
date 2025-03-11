@@ -1,4 +1,4 @@
-function firstChar(text) {
+function firstChar(str) {
   // your code here
  return str.trimStart().charAt(0);}
 
