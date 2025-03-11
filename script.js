@@ -1,8 +1,8 @@
 function firstChar(text) {
-  // your code here
- return text.trimStart().charAt(0);}
+  return text.trimStart().charAt(0);
+}
 
 // Do not change the code below
-//Uncomment the following line to show the prompt popup
-//const text = prompt("Enter text:");
+// Uncomment the following lines to show the prompt popup
+const text = prompt("Enter text:");  // Declare 'text' properly
 alert(firstChar(text));
