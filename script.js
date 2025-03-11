@@ -1,6 +1,6 @@
-function firstChar(str) {
+function firstChar(text) {
   // your code here
- return str.trimStart().charAt(0);}
+ return text.trimStart().charAt(0);}
 
 // Do not change the code below
 //Uncomment the following line to show the prompt popup
